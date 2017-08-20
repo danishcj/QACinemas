@@ -1,11 +1,7 @@
-# cinemaConsole
+# QA Cinemas Excercise 2
 
-simple cinema ticket counter 
+I have used Maven on Intellij to develop this java program.
+Build & Compile, rung and follow easy instructions on the console.
 
-to build got to root and run mvn clean compile assembly:single
-new file will be created located in target.
-to run the Application switch folder to target. then run
-
-java -jar cinemaConsole-1.0-SNAPSHOT-jar-with-dependencies.jar
-
-you r done :)
+Excercise 1
+is in .doc format.
